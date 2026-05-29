@@ -5,9 +5,6 @@ Set card recognition project.
 Run in VSCode:
     python set_card_project.py
 
-Optional command line mode:
-    python set_card_project.py "E:/OneDrive - MSFT/DIP/数字图像处理大作业/第一批图片/set纸牌2/IMG_1.png"
-
 Required packages:
     opencv-python, numpy, pillow
 """
